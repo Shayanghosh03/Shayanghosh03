@@ -1,4 +1,4 @@
-# Welcome to Shayan Ghosh profile! <a href="https://shayanghoshportfolio.netlift.app" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to Shayan Ghosh profile! <a href="https://shayanghoshportfolio.netlify.app" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <a href="https://www.linkedin.com/in/shayan-ghosh-0834b3271/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 &nbsp;
