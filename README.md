@@ -2,7 +2,7 @@
 **A passionate MERN Stack Developer || 3rd Year B.Tech CSE Student**
 
 📧 **Email Me:** shayanghosh0439@gmail.com 
-🌐 **Portfolio:** https://shayanghosh.netlify.app/
+🌐 **Portfolio:** https://shayanghosh.netlify.app
 
 - 🔭 **I’m currently working on:** MERN stack projects   
 - 🌱 **I’m currently learning:** Next.js, Advanced React, and AI Integration in Web Apps  
@@ -14,7 +14,7 @@
 - ⚡ **Fun fact:** They call me the *“Great Developer”* because I love turning ideas into reality
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/shayan.ghosh.39589) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shayan_ghosh_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-ghosh-0834b3271) [![Leet Code](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Shayan03/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@build_with_shayan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shayanghosh0439@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/shayan.ghosh.39589) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shayan_ghosh_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-ghosh-0834b3271) [![Leet Code](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Shayan03/) [![Coding Ninjas](https://img.shields.io/badge/-Coding%20Ninjas-DD6620?logo=codeforces&logoColor=white)](https://www.naukri.com/code360/profile/shayanghsosh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@build_with_shayan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shayanghosh0439@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
