@@ -33,19 +33,19 @@
 
 
 # 📊 GitHub Stats
-
-![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shayanghosh03&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shayanghosh03&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shayanghosh03&layout=compact&theme=tokyonight)
+![Shayan's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shayanghosh03&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shayanghosh03&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shayanghosh03&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🚀 Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=Shayanghosh03&color=blue&style=flat)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Shayanghosh03&color=blue)
+---
 
+## ✨ Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 ### ✍️ Random Dev Quote
