@@ -32,10 +32,19 @@
 ![](https://github-profile-trophy.vercel.app/?username=Shayanghosh03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shayanghosh03&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shayanghosh03&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shayanghosh03&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shayanghosh03&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shayanghosh03&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shayanghosh03&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Shayanghosh03&color=blue)
 
 
 
