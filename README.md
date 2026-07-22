@@ -54,13 +54,9 @@
 ### 🔝 Top Contributed Repo
 ## ⭐ Featured Repositories
 
-<a href="https://github.com/Shayanghosh03/NeuroScan-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shayanghosh03&repo=NeuroScan-AI&theme=tokyonight" />
-</a>
+## 📦 Repository Summary
 
-<a href="https://github.com/Shayanghosh03/MediLoop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shayanghosh03&repo=MediLoop&theme=tokyonight" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shayanghosh03&theme=tokyonight)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
