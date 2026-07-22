@@ -41,11 +41,18 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shayanghosh03&show_icons=true&theme=tokyonight)
-<img src="https://streak-stats.demolab.com?user=Shayanghosh03&theme=tokyonight&hide_border=true" />
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shayanghosh03&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shayanghosh03&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shayanghosh03&theme=tokyonight&utcOffset=5.5)
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shayanghosh03&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shayanghosh03&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shayanghosh03&theme=tokyonight" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shayanghosh03&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shayanghosh03&theme=tokyonight&utcOffset=5.5" width="48%" />
+</p>
 
 ## 📈 Contribution Graph
 [[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shayanghosh03&theme=tokyo-night)](https://github.com/Shayanghosh03/github-readme-activity-graph)
