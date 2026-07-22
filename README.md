@@ -32,12 +32,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shayanghosh03&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shayanghosh03&show_icons=true&theme=tokyonight)
 <img src="https://streak-stats.demolab.com?user=Shayanghosh03&theme=tokyonight&hide_border=true" />
 
 ## 📈 Contribution Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shayanghosh03&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shayanghosh03&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shayanghosh03&theme=tokyonight)
 
 ## 🚀 Profile Views
 <img src="https://komarev.com/ghpvc/?username=Shayanghosh03&color=blue&style=flat" />
