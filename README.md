@@ -54,4 +54,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Shayanghosh03&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 📊 GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shayanghosh03&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shayanghosh03&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shayanghosh03&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shayanghosh03&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shayanghosh03&theme=tokyonight&utcOffset=5.5)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
