@@ -35,6 +35,9 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shayanghosh03&show_icons=true&theme=tokyonight)
 <img src="https://streak-stats.demolab.com?user=Shayanghosh03&theme=tokyonight&hide_border=true" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shayanghosh03&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shayanghosh03&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shayanghosh03&theme=tokyonight&utcOffset=5.5)
 
 ## 📈 Contribution Graph
 [[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shayanghosh03&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -54,16 +57,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Shayanghosh03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shayanghosh03&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shayanghosh03&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shayanghosh03&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shayanghosh03&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shayanghosh03&theme=tokyonight&utcOffset=5.5)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
