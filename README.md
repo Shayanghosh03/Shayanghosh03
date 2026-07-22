@@ -1,5 +1,5 @@
 # Hi👋, I'm SHAYAN GHOSH  
-**A passionate MERN Stack Developer || 3rd Year B.Tech CSE Student**
+**A passionate MERN Stack Developer || 4th Year B.Tech CSE Student**
 
 📧 **Email Me:** shayanghosh0439@gmail.com 
 🌐 **Portfolio:** https://shayanghosh.netlify.app
@@ -9,7 +9,7 @@
 - 👯 **I’m looking to collaborate on:** Full Stack Web Projects, Hackathons & Open Source Contributions  
 - 🤔 **I’m looking for help with:** Scalable system design & advanced cloud deployments  
 - 💬 **Ask me about:** MERN Stack Development, Frontend UI, and Database Management 
-- 🎓 **Education:** 3rd Year B.Tech CSE @ Abacus Institute of Engineering & Management (CGPA 8.56/10)  
+- 🎓 **Education:** 4th Year B.Tech CSE @ Abacus Institute of Engineering & Management (CGPA 8.56/10)  
 - 💼 **Experience:** Participating more than 5 HACKATHONS  
 - ⚡ **Fun fact:** They call me the *“Great Developer”* because I love turning ideas into reality
 
