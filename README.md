@@ -52,10 +52,15 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shayanghosh03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## ⭐ Featured Repositories
 
----
-[![](https://visitcount.itsvg.in/api?id=Shayanghosh03&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://github.com/Shayanghosh03/NeuroScan-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shayanghosh03&repo=NeuroScan-AI&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Shayanghosh03/MediLoop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shayanghosh03&repo=MediLoop&theme=tokyonight" />
+</a>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
