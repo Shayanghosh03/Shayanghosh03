@@ -51,12 +51,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-## ⭐ Featured Repositories
-
-## 📦 Repository Summary
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shayanghosh03&theme=tokyonight)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
