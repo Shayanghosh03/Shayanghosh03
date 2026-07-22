@@ -37,7 +37,7 @@
 <img src="https://streak-stats.demolab.com?user=Shayanghosh03&theme=tokyonight&hide_border=true" />
 
 ## 📈 Contribution Graph
-[[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shayanghosh03&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shayanghosh03&theme=tokyonight)
+[[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shayanghosh03&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)]
 
 ## 🚀 Profile Views
 <img src="https://komarev.com/ghpvc/?username=Shayanghosh03&color=blue&style=flat" />
