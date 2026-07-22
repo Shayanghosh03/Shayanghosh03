@@ -33,9 +33,13 @@
 
 
 # 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shayanghosh03&show_icons=true&theme=tokyonight)
-<img src="https://streak-stats.demolab.com?user=Shayanghosh03&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayanghosh03&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shayanghosh03&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Shayanghosh03&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayanghosh03&layout=compact&theme=tokyonight&cache_seconds=86400" />
+</p>
 
 ## 🚀 Profile Views
 <img src="https://komarev.com/ghpvc/?username=Shayanghosh03&color=blue&style=flat" />
