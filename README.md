@@ -33,7 +33,7 @@
 
 
 # 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Shayanghosh03&show_icons=true&theme=tokyonight&hide_border=true" />
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shayanghosh03&show_icons=true&theme=tokyonight)
 <img src="https://streak-stats.demolab.com?user=Shayanghosh03&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayanghosh03&layout=compact&theme=tokyonight&hide_border=true" />
 
