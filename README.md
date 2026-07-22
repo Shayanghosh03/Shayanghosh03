@@ -59,6 +59,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
 
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
