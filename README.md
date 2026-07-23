@@ -32,7 +32,8 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shayanghosh03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
+    <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
   </a>
 </p>
 
