@@ -30,12 +30,11 @@
 
 ## 🏆 GitHub Trophies
 
+## 🏆 GitHub Trophies
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Shayanghosh03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"
-      alt="GitHub Trophies"
-    />
+    <img src="https://github-profile-trophy.vercel.app/?username=Shayanghosh03&theme=onedark" alt="GitHub Trophies" />
   </a>
 </p>
 
