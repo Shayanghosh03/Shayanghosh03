@@ -9,8 +9,8 @@
 - 👯 **I’m looking to collaborate on:** Full Stack Web Projects, Hackathons & Open Source Contributions  
 - 🤔 **I’m looking for help with:** Scalable system design & advanced cloud deployments  
 - 💬 **Ask me about:** MERN Stack Development, Frontend UI, and Database Management 
-- 🎓 **Education:** 4th Year B.Tech CSE @ Abacus Institute of Engineering & Management (CGPA 8.56/10)  
-- 💼 **Experience:** Participating more than 5 HACKATHONS  
+- 🎓 **Education:** 4th Year B.Tech CSE @ Abacus Institute of Engineering & Management (CGPA 8.67/10)  
+- 💼 **Experience:** Participating more than 10 HACKATHONS  
 - ⚡ **Fun fact:** They call me the *“Great Developer”* because I love turning ideas into reality
 
 ## 🌐 Socials:
