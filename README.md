@@ -41,8 +41,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shayanghosh03&theme=tokyonight&utcOffset=5.5" width="32%" />
 </p>
 
-## 📈 Contribution Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shayanghosh03&theme=tokyo-night)](https://github.com/Shayanghosh03/github-readme-activity-graph)
+
+## 📊 GitHub Contribution Graph
+
+![GitHub Contribution Grid](https://ghchart.rshah.org/409ba5/Shayanghosh03)
 
 ## 🚀 Profile Views
 <img src="https://komarev.com/ghpvc/?username=Shayanghosh03&color=blue&style=flat" />
